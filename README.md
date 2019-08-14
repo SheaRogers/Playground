@@ -1,2 +1,0 @@
-# Playground
-Created with CodeSandbox
